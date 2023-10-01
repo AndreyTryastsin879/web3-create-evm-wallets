@@ -4,7 +4,7 @@
 Python код, с помощью которого вы сможете сгенерировать крипто-кошельки.
 
 
--Файлы .py - 3 варианта создания кошельков:
+- Файлы .py - 3 варианта создания кошельков:
   create-evm-wallets-var-1.py
   create-evm-wallets-var-2.py
   create-evm-wallets-var-3.py
