@@ -29,4 +29,4 @@ Python code that can be used to generate crypto wallets.
 - The create-evm-wallets.ipynb file contains the entire code (all options) in jupyter-notebook format.
 
 For more detailed instructions, please follow the link:
-https://crypto-py.com/13-avtomatizatsiya-akkauntov/79-sozdanie-evm-koshelkov-s-pomoshchyu-biblioteki-web3-na-python
+https://crypto-py.com/en/26-account-automation/82-creating-evm-wallets-using-the-web3-library-in-python
